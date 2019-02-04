@@ -2114,6 +2114,9 @@ input, select, textarea {
 					display: none !important;
 				}
 
+				.main.style2 .button.down {
+					display: none;
+				}
 				.main.style2 .button.anchored {
 					display: none;
 				}
